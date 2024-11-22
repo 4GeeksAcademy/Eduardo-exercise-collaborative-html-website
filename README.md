@@ -1,6 +1,6 @@
-gloria
-diego narvaez
-joan jimenez 
+gloria,
+diego narvaez,
+joan jimenez,
 eduardo - contact y navbar
 
 # Making a website as a team (Git collaboration)

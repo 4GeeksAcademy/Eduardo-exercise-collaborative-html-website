@@ -1,7 +1,7 @@
 gloria,
 diego narvaez,
 joan jimenez,
-eduardo - contact y navbar
+eduardo - contact
 
 # Making a website as a team (Git collaboration)
 

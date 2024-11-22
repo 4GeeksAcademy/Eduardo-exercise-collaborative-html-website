@@ -1,3 +1,8 @@
+gloria
+diego narvaez
+joan jimenez 
+eduardo - contact y navbar
+
 # Making a website as a team (Git collaboration)
 
 Practice your skills in Git while developing a typical website.
